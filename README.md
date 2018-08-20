@@ -23,7 +23,7 @@ Requires clojure 1.7.0 because of reader conditionals.
 
 In clojurescript it works with 1.9.293, for lower versions ¯\\\_(ツ)_/¯.
 
-`[cadastro-de-pessoa "0.4.0"]`
+[![Clojars Project](https://img.shields.io/clojars/v/br.com.vikingmakt/cadastro-de-pessoa.svg)](https://clojars.org/br.com.vikingmakt/cadastro-de-pessoa)
 
 #### Namespace declaration
 
